@@ -7,4 +7,5 @@
     "description": "Craft biodiesel! Make vegetable oil! Be self-sustainable!",
     "category": "misc_additions",
     "dependencies": ["bn"]
+    }
 ]
