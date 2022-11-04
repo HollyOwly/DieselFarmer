@@ -1,1 +1,28 @@
-
+[
+  {
+    "id": "pyrolysis_reactor",
+    "type": "TOOL",
+    "category": "tools",
+    "name": { "str": "pyrolysis reactor" },
+    "description": "This is a heavy machinery capable of producing biodiesel through a pyrolytic reaction, Very scientific.",
+    "weight": "124200 g",
+    "volume": "90500 ml",
+    "price": 9001,
+    "price_postapoc": 0,
+    "to_hit": -1,
+    "bashing": 7,
+    "material": "steel",
+    "symbol": ";",
+    "color": "red",
+    "ammo": "battery",
+    "charges_per_use": 5,
+    "qualities": [ [ "WELD", 2 ] ],
+    "flags": [ "ALLOWS_REMOTE_USE" ],
+    "magazines": [
+      [
+        "battery",
+        [ "medium_battery_cell", "medium_plus_battery_cell", "medium_atomic_battery_cell", "medium_disposable_cell" ]
+      ]
+    ],
+    "magazine_well": "500 ml"
+  },
