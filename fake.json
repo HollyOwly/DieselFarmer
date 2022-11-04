@@ -1,1 +1,10 @@
 
+  {
+    "id": "fake_pyrolysis_reacot,
+    "copy-from": "fake_item",
+    "type": "TOOL",
+    "name": { "str": "grid pyrolysis reactor" },
+    "sub": "pyrolysis_reactor",
+    "max_charges": 2500,
+    "flags": [ "USES_GRID_POWER" ]
+  },
