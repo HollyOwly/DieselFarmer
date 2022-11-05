@@ -1,0 +1,28 @@
+ [
+  {
+    "result": "cooking_oil",
+    "type": "recipe",    
+    "id_suffix": "cold_cooking_oil" 
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 4,
+    "charges": 10,
+    "time": "10 m",
+    "autolearn": true,
+    "batch_time_factors": [ 80, 5 ],
+    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "COOK", "level": 2 } ],
+    "tools": [ [ [ "f_grid_oil_press" ,300 ] ] ],
+    "components": [
+      [
+        [ "plant_sac", 16 ],
+        [ "seed_cotton_boll", 8 ],
+        [ "seed_pumpkin", 32 ],
+        [ "seed_sunflower", 16 ],
+        [ "seed_canola", 32 ],
+        [ "seed_grapes", 48 ],
+        [ "seed_weed", 48 ]
+       ]
+      ]
+    }
+  ]
