@@ -2,7 +2,7 @@
   {
     "type": "furniture",
     "id": "f_pyrolysis_reactor",
-    "looks_like": "welder",
+    "looks_like": "f_standing_tank",
     "name": "pyrolysis reactor",
     "symbol": "#",
     "description": "A small scale pyrolysis reactor connected to a electrical grid.",
