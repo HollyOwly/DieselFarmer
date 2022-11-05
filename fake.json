@@ -1,4 +1,4 @@
-
+[
   {
     "id": "fake_pyrolysis_reactor",
     "copy-from": "fake_item",
@@ -8,3 +8,4 @@
     "max_charges": 2500,
     "flags": [ "USES_GRID_POWER" ]
   },
+]
