@@ -1,3 +1,4 @@
+[
 {
     "result": "biodiesel",
     "type": "recipe",
@@ -27,4 +28,5 @@
       ]
     ],
     "flags": [ "ALLOW_ROTTEN" ]
-  }
+}
+]
