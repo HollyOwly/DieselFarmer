@@ -8,4 +8,13 @@
     "max_charges": 2500,
     "flags": [ "USES_GRID_POWER" ]
   }
+  {
+    "id": "fake_oil_press",
+    "copy-from": "fake_item",
+    "type": "TOOL",
+    "name": { "str": "grid oil press machine" },
+    "sub": "oil_perss",
+    "max_charges": 2500,
+    "flags": [ "USES_GRID_POWER" ]
+  }
 ]
