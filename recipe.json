@@ -2,6 +2,7 @@
   {
     "result": "biodiesel",
     "type": "recipe",
+    "id_suffix": "pyro_biodiesel" 
     "category": "CC_CHEM",
     "subcategory": "CSC_CHEM_FUEL",
     "skill_used": "cooking",
@@ -11,7 +12,7 @@
     "book_learn": [ [ "textbook_biodiesel", 5 ] ],
     "batch_time_factors": [ 83, 5 ],
     "qualities": [ { "id": "CHEM", "level": 2 } ],
-    "tools": [ [ [ "f_pyrolysis_reactor" ,1800] ] ],
+    "tools": [ [ [ "f_pyrolysis_reactor" ,1800 ] ] ],
     "components": [
       [ [ "water_clean", 4 ], [ "water", 4 ] ],
       [ [ "chem_ethanol", 100 ], [ "chem_methanol", 100 ], [ "denat_alcohol", 100 ] ],
@@ -28,5 +29,31 @@
       ]
     ],
     "flags": [ "ALLOW_ROTTEN" ]
+  }
+  {
+    "result": "cooking_oil",
+    "type": "recipe",    
+    "id_suffix": "cold_cooking_oil" 
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 4,
+    "charges": 10,
+    "time": "10 m",
+    "autolearn": true,
+    "batch_time_factors": [ 80, 5 ],
+    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "COOK", "level": 2 } ],
+    "tools": [ [ [ "f_grid_oil_press" ,300 ] ] ],
+    "components": [
+      [
+        [ "plant_sac", 16 ],
+        [ "seed_cotton_boll", 8 ],
+        [ "seed_pumpkin", 32 ],
+        [ "seed_sunflower", 16 ],
+        [ "seed_canola", 32 ],
+        [ "seed_grapes", 48 ],
+        [ "seed_weed", 48 ]
+      ]
+    ]
   }
 ]
