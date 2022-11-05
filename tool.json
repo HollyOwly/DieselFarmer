@@ -16,4 +16,21 @@
     "color": "red",
     "flags": [ "ALLOWS_REMOTE_USE" ],
   }
+  {
+    "id": "oil_press",
+    "type": "TOOL",
+    "category": "tools",
+    "name": { "str": "oil press" },
+    "description": "A device for extracting oil from seeds, twice as efficient as manual oil extraction.",
+    "weight": "4280 g",
+    "volume": "3460 ml",
+    "price": 125,
+    "price_postapoc": 0,
+    "to_hit": -1,
+    "bashing": 7,
+    "material": "steel",
+    "symbol": ";",
+    "color": "red",
+    "flags": [ "ALLOWS_REMOTE_USE" ],
+  }
 ]
