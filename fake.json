@@ -17,4 +17,13 @@
     "max_charges": 2500,
     "flags": [ "USES_GRID_POWER" ]
   }
+  {
+    "id": "fake_grid_seed_processor",
+    "copy-from": "fake_item",
+    "type": "TOOL",
+    "name": { "str": "grid seed extraction machine" },
+    "sub": "seed_processor",
+    "max_charges": 2500,
+    "flags": [ "USES_GRID_POWER" ]
+  }
 ]
