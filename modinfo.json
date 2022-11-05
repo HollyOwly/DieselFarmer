@@ -4,7 +4,7 @@
     "id": "industrialissimo",
     "name": "Industrialissimo",
     "authors": [ "Owly"],
-    "description": "Craft biodiesel! Make vegetable oil! Be self-sustainable!",
+    "description": "Craft more biodiesel! Make vegetable oil! Be self-sustainable!",
     "category": "misc_additions",
     "dependencies": ["bn"]
     }
