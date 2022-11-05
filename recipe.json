@@ -1,5 +1,5 @@
-[
 {
+    {
     "result": "biodiesel",
     "type": "recipe",
     "category": "CC_CHEM",
@@ -28,5 +28,5 @@
       ]
     ],
     "flags": [ "ALLOW_ROTTEN" ]
+    }
 }
-]
