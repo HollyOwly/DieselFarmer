@@ -7,5 +7,5 @@
     "sub": "pyrolysis_reactor",
     "max_charges": 2500,
     "flags": [ "USES_GRID_POWER" ]
-  },
+  }
 ]
