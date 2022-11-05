@@ -14,16 +14,6 @@
     "material": "steel",
     "symbol": ";",
     "color": "red",
-    "ammo": "battery",
-    "charges_per_use": 5,
-    "qualities": [ [ "WELD", 2 ] ],
     "flags": [ "ALLOWS_REMOTE_USE" ],
-    "magazines": [
-      [
-        "battery",
-        [ "medium_battery_cell", "medium_plus_battery_cell", "medium_atomic_battery_cell", "medium_disposable_cell" ]
-      ]
-    ],
-    "magazine_well": "500 ml"
   }
 ]
