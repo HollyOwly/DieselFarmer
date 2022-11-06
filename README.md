@@ -13,4 +13,5 @@ Speeds up the crafting of biodiesel by 2x the normal speed. Uses a LOT of power.
 Vegetable oil blend:
 It's a more crude type of vegetable oil, very unhealthy to drink. Can be refined further into vegetable cooking oil or used as it is to craft biodiesel.
 
-ps: all seed crafting recipes had their results and times multiplied by 4 while the vegetable cooking oil had theirs multiplied by 20 when using the cold oil press. :D 
+ps: all seed crafting recipes had their results and times multiplied by 4 while the vegetable cooking oil had theirs multiplied by 20 when using the cold oil press. This way you can trully craft 100s of units per craft instead of a measily 50 vegetable cooking oil when crafting 50 batches. :D 
+
