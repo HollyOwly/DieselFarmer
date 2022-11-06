@@ -1,5 +1,5 @@
 [
-   {	
+  {
     "type": "construction",
     "id": "constr_pyrolysis_reactor",
     "group": "build_pyrolysis_reactor",
@@ -13,7 +13,7 @@
     "pre_special": "check_empty",
     "post_furniture": "f_pyrolysis_reactor"
   },
-   {
+  {
     "type": "construction",
     "id": "constr_grid_oil_press",
     "group": "build_cold_oil_press",
@@ -27,7 +27,7 @@
     "pre_special": "check_empty",
     "post_furniture": "f_grid_oil_press"
   },
-   {
+  {
     "type": "construction",
     "id": "constr_grid_seed_processor",
     "group": "build_seed_extraction_machine",
@@ -41,6 +41,4 @@
     "pre_special": "check_empty",
     "post_furniture": "f_grid_seed_processor"
   }
-  
-
 ]

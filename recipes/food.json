@@ -1,8 +1,8 @@
- [
+[
   {
     "result": "cooking_oil",
-    "type": "recipe",    
-    "id_suffix": "cold_cooking_oil" ,
+    "type": "recipe",
+    "id_suffix": "cold_cooking_oil",
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_OTHER",
     "skill_used": "cooking",
@@ -11,7 +11,7 @@
     "time": "20 m",
     "autolearn": true,
     "batch_time_factors": [ 80, 5 ],
-    "tools": [ [ [ "fake_grid_oil_press" ,250 ] ] ],
+    "tools": [ [ [ "fake_grid_oil_press", 250 ] ] ],
     "components": [
       [
         [ "plant_sac", 32 ],
@@ -21,7 +21,7 @@
         [ "seed_canola", 64 ],
         [ "seed_grapes", 96 ],
         [ "seed_weed", 96 ]
-       ]
       ]
-    }
-  ]
+    ]
+  }
+]

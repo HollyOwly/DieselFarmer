@@ -33,7 +33,7 @@
     "color": "red",
     "flags": [ "ALLOWS_REMOTE_USE" ]
   },
-{
+  {
     "id": "seed_processor",
     "type": "TOOL",
     "category": "tools",
