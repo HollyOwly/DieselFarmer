@@ -1,5 +1,31 @@
 [
   {
+    "type": "recipe",
+    "result": "cooking_oil",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 4,
+    "charges": 1,
+    "time": "10 m",
+    "autolearn": true,
+    "batch_time_factors": [ 80, 5 ],
+    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "COOK", "level": 2 } ],
+    "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
+    "components": [
+      [
+        [ "plant_sac", 2 ],
+        [ "seed_cotton_boll", 1 ],
+        [ "seed_pumpkin", 4 ],
+        [ "seed_sunflower", 2 ],
+        [ "seed_canola", 4 ],
+        [ "seed_grapes", 6 ],
+        [ "seed_weed", 6 ],
+        [ "vegetable_oil_blend", 1 ]
+      ]
+    ]
+  },
+  {
     "result": "cooking_oil",
     "type": "recipe",
     "id_suffix": "cold_cooking_oil",
@@ -10,6 +36,30 @@
     "charges": 20,
     "time": "20 m",
     "autolearn": true,
+    "batch_time_factors": [ 80, 5 ],
+    "tools": [ [ [ "fake_grid_oil_press", 250 ] ] ],
+    "components": [
+      [
+        [ "plant_sac", 40 ],
+        [ "seed_cotton_boll", 40 ],
+        [ "seed_pumpkin", 80 ],
+        [ "seed_sunflower", 40 ],
+        [ "seed_canola", 80 ],
+        [ "seed_grapes", 120 ],
+        [ "seed_weed", 120 ]
+      ]
+    ]
+  },
+  {
+    "result": "vegetable_oil_blend",
+    "type": "recipe",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "cooking",
+    "difficulty": 4,
+    "charges": 20,
+    "time": "20 m",
+    "book_learn": [ [ "textbook_biodiesel", 0 ] ],
     "batch_time_factors": [ 80, 5 ],
     "tools": [ [ [ "fake_grid_oil_press", 250 ] ] ],
     "components": [

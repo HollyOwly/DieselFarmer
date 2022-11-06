@@ -13,7 +13,11 @@
     "crafting_pseudo_item": "fake_grid_pyrolysis_reactor",
     "flags": [ "TRANSPARENT", "MOUNTABLE" ],
     "deconstruct": {
-      "items": [ { "item": "welder", "count": 1 }, { "item": "cable", "charges": 5 }, { "item": "power_supply", "count": 1 } ]
+      "items": [
+        { "item": "pyrolysis_reactor", "count": 1 },
+        { "item": "cable", "charges": 5 },
+        { "item": "power_supply", "count": 1 }
+      ]
     },
     "bash": {
       "str_min": 4,
@@ -31,7 +35,7 @@
   {
     "type": "furniture",
     "id": "f_grid_oil_press",
-    "looks_like": "f_standing_tank",
+    "looks_like": "f_chemical_mixer",
     "name": "cold oil press",
     "symbol": "#",
     "description": "A device for extracting oil from seeds connected to an electrical grid, about 20% more efficient than manual oil extraction.",
@@ -42,7 +46,7 @@
     "crafting_pseudo_item": "fake_grid_oil_press",
     "flags": [ "TRANSPARENT", "MOUNTABLE" ],
     "deconstruct": {
-      "items": [ { "item": "welder", "count": 1 }, { "item": "cable", "charges": 5 }, { "item": "power_supply", "count": 1 } ]
+      "items": [ { "item": "oil_press", "count": 1 }, { "item": "cable", "charges": 5 }, { "item": "power_supply", "count": 1 } ]
     },
     "bash": {
       "str_min": 4,
@@ -60,7 +64,7 @@
   {
     "type": "furniture",
     "id": "f_grid_seed_processor",
-    "looks_like": "f_standing_tank",
+    "looks_like": "f_alien_nerve",
     "name": "seed extraction machine",
     "symbol": "#",
     "description": "A device for extracting seeds from plants and fruits connected to an electrical grid, it might not be more efficient but it's definitely faster than by hand.",
@@ -71,7 +75,7 @@
     "crafting_pseudo_item": "fake_grid_seed_processor",
     "flags": [ "TRANSPARENT", "MOUNTABLE" ],
     "deconstruct": {
-      "items": [ { "item": "welder", "count": 1 }, { "item": "cable", "charges": 5 }, { "item": "power_supply", "count": 1 } ]
+      "items": [ { "item": "seed_processor", "count": 1 }, { "item": "cable", "charges": 5 }, { "item": "power_supply", "count": 1 } ]
     },
     "bash": {
       "str_min": 4,

@@ -3,9 +3,9 @@
     "type": "MOD_INFO",
     "id": "industrialissimo",
     "name": "Industrialissimo",
-    "authors": [ "Owly"],
-    "description": "Craft more biodiesel! Make vegetable oil! Be self-sustainable!",
+    "authors": [ "Owly" ],
+    "description": "Extract seeds from plants, make vegetable oil and craft biodiesel faster with our patented machinery! Be self-sustainable!",
     "category": "misc_additions",
-    "dependencies": ["bn"]
-    }
+    "dependencies": [ "bn" ]
+  }
 ]

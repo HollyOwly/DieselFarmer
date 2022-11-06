@@ -6,17 +6,17 @@
   },
   {
     "type": "construction_group",
-    "id": "build_pyrolysis_reactor",
-    "name": "Build Pyrolysis Reactor"
+    "id": "place_pyrolysis_reactor",
+    "name": "Place Pyrolysis Reactor"
   },
   {
     "type": "construction_group",
-    "id": "build_cold_oil_press",
-    "name": "Build Cold Oil Press"
+    "id": "place_cold_oil_press",
+    "name": "Place Cold Oil Press"
   },
   {
     "type": "construction_group",
-    "id": "build_seed_extraction_machine",
-    "name": "Build Seed Extraction Machine"
+    "id": "place_seed_extraction_machine",
+    "name": "Place Seed Extraction Machine"
   }
 ]

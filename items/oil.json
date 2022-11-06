@@ -1,0 +1,27 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "vegetable_oil_blend",
+    "name": { "str_sp": "vegetable oil blend" },
+    "category": "chems",
+    "weight": "15 g",
+    "color": "yellow",
+    "use_action": "BLECH",
+    "container": "jug_plastic",
+    "comestible_type": "DRINK",
+    "symbol": "~",
+    "quench": -4,
+    "healthy": -8,
+    "calories": 67,
+    "description": "Vegetable oil blend made without regard to taste and health standards. Could be used in the production of biodiesel or refined even further for safe consumption.",
+    "price": 40,
+    "price_postapoc": 30,
+    "material": [ "oil", "veggy" ],
+    "volume": "250 ml",
+    "phase": "liquid",
+    "charges": 2,
+    "flags": [ "UNSAFE_CONSUME" ],
+    "fun": -30,
+    "freezing_point": -20
+  }
+]
