@@ -1,8 +1,8 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "industrialissimo",
-    "name": "Industrialissimo",
+    "id": "DieselFarmer",
+    "name": "DieselFarmer",
     "authors": [ "Owly" ],
     "description": "Extract seeds from plants, make vegetable oil and craft biodiesel faster with our patented machinery! Be self-sustainable!",
     "category": "misc_additions",
