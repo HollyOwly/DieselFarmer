@@ -12,3 +12,5 @@ Speeds up the crafting of biodiesel by 2x the normal speed. Uses a LOT of power.
 
 Vegetable oil blend:
 It's a more crude type of vegetable oil, very unhealthy to drink. Can be refined further into vegetable cooking oil or used as it is to craft biodiesel.
+
+ps: all crafting recipes have had their batches multiplied at least by 4x. workbenches and assistants should speed up the process even further :D.
