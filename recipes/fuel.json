@@ -2,7 +2,7 @@
   {
     "result": "biodiesel",
     "type": "recipe",
-    "id_suffix": "pyro_biodiesel" 
+    "id_suffix": "pyro_biodiesel", 
     "category": "CC_CHEM",
     "subcategory": "CSC_CHEM_FUEL",
     "skill_used": "cooking",
@@ -12,7 +12,7 @@
     "book_learn": [ [ "textbook_biodiesel", 5 ] ],
     "batch_time_factors": [ 83, 5 ],
     "qualities": [ { "id": "CHEM", "level": 2 } ],
-    "tools": [ [ [ "f_pyrolysis_reactor" ,1800 ] ] ],
+    "tools": [ [ [ "fake_grid_pyrolysis_reactor" ,1800 ] ] ],
     "components": [
       [ [ "water_clean", 4 ], [ "water", 4 ] ],
       [ [ "chem_ethanol", 100 ], [ "chem_methanol", 100 ], [ "denat_alcohol", 100 ] ],

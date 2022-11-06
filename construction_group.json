@@ -1,0 +1,22 @@
+[
+  {
+    "type": "construction_group",
+    "id": "",
+    "name": ""
+  },
+  {
+    "type": "construction_group",
+    "id": "build_pyrolysis_reactor",
+    "name": "Build Pyrolysis Reactor"
+  },
+  {
+    "type": "construction_group",
+    "id": "build_cold_oil_press",
+    "name": "Build Cold Oil Press"
+  },
+  {
+    "type": "construction_group",
+    "id": "build_seed_extraction_machine",
+    "name": "Build Seed Extraction Machine"
+  }
+]
