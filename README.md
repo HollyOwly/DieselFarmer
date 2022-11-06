@@ -1,4 +1,4 @@
-# FarmingDiesel
+# DieselFarmer
 Mod for CDDA-BN that adds 3 grid machines to help speed up the process of making biodiesel through farming produce.
 
 Seed extraction machine:
