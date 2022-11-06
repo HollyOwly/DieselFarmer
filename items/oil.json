@@ -21,7 +21,6 @@
     "phase": "liquid",
     "charges": 2,
     "flags": [ "UNSAFE_CONSUME" ],
-    "fun": -30,
-    "freezing_point": -20
+    "fun": -30
   }
 ]
