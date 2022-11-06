@@ -1,1 +1,46 @@
+[
+   {	
+    "type": "construction",
+    "id": "constr_pyrolysis_reactor",
+    "group": "build_pyrolysis_reactor",
+    "category": "OTHER",
+    "required_skills": [ [ "electronics", 1 ] ],
+    "time": "30 m",
+    "qualities": [ [ { "id": "SCREW", "level": 1 } ] ],
+    "using": [ [ "soldering_standard", 20 ] ],
+    "components": [ [ [ "cable", 5 ] ], [ [ "battery_charger", 1 ] ], [ [ "power_supply", 1 ] ], [ [ "solder_wire", 5 ] ] ],
+    "pre_note": "Will only work if constructed in a building with an electric grid.",
+    "pre_special": "check_empty",
+    "post_furniture": "f_pyrolysis_reactor"
+  },
+   {
+    "type": "construction",
+    "id": "constr_grid_oil_press",
+    "group": "build_cold_oil_press",
+    "category": "OTHER",
+    "required_skills": [ [ "electronics", 1 ] ],
+    "time": "30 m",
+    "qualities": [ [ { "id": "SCREW", "level": 1 } ] ],
+    "using": [ [ "soldering_standard", 20 ] ],
+    "components": [ [ [ "cable", 5 ] ], [ [ "battery_charger", 1 ] ], [ [ "power_supply", 1 ] ], [ [ "solder_wire", 5 ] ] ],
+    "pre_note": "Will only work if constructed in a building with an electric grid.",
+    "pre_special": "check_empty",
+    "post_furniture": "f_grid_oil_press"
+  },
+   {
+    "type": "construction",
+    "id": "constr_grid_seed_processor",
+    "group": "build_seed_extraction_machine",
+    "category": "OTHER",
+    "required_skills": [ [ "electronics", 1 ] ],
+    "time": "30 m",
+    "qualities": [ [ { "id": "SCREW", "level": 1 } ] ],
+    "using": [ [ "soldering_standard", 20 ] ],
+    "components": [ [ [ "cable", 5 ] ], [ [ "battery_charger", 1 ] ], [ [ "power_supply", 1 ] ], [ [ "solder_wire", 5 ] ] ],
+    "pre_note": "Will only work if constructed in a building with an electric grid.",
+    "pre_special": "check_empty",
+    "post_furniture": "f_grid_seed_processor"
+  }
+  
 
+]

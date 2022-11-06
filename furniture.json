@@ -10,7 +10,7 @@
     "move_cost_mod": -1,
     "coverage": 10,
     "required_str": -1,
-    "crafting_pseudo_item": "fake_pyrolysis_reactor",
+    "crafting_pseudo_item": "fake_grid_pyrolysis_reactor",
     "flags": [ "TRANSPARENT", "MOUNTABLE" ],
     "deconstruct": {
       "items": [ { "item": "welder", "count": 1 }, { "item": "cable", "charges": 5 }, { "item": "power_supply", "count": 1 } ]
@@ -27,7 +27,7 @@
         { "item": "plastic_chunk", "count": [ 1, 2 ] }
       ]
     }
-  }
+  },
   {
     "type": "furniture",
     "id": "f_grid_oil_press",
@@ -39,7 +39,7 @@
     "move_cost_mod": -1,
     "coverage": 10,
     "required_str": -1,
-    "crafting_pseudo_item": "fake_oil_press",
+    "crafting_pseudo_item": "fake_grid_oil_press",
     "flags": [ "TRANSPARENT", "MOUNTABLE" ],
     "deconstruct": {
       "items": [ { "item": "welder", "count": 1 }, { "item": "cable", "charges": 5 }, { "item": "power_supply", "count": 1 } ]
@@ -56,7 +56,7 @@
         { "item": "plastic_chunk", "count": [ 1, 2 ] }
       ]
     }
-  }
+  },
   {
     "type": "furniture",
     "id": "f_grid_seed_processor",

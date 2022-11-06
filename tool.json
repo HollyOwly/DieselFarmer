@@ -14,8 +14,8 @@
     "material": "steel",
     "symbol": ";",
     "color": "red",
-    "flags": [ "ALLOWS_REMOTE_USE" ],
-  }
+    "flags": [ "ALLOWS_REMOTE_USE" ]
+  },
   {
     "id": "oil_press",
     "type": "TOOL",
@@ -31,8 +31,8 @@
     "material": "steel",
     "symbol": ";",
     "color": "red",
-    "flags": [ "ALLOWS_REMOTE_USE" ],
-  }
+    "flags": [ "ALLOWS_REMOTE_USE" ]
+  },
 {
     "id": "seed_processor",
     "type": "TOOL",
@@ -48,6 +48,6 @@
     "material": "steel",
     "symbol": ";",
     "color": "red",
-    "flags": [ "ALLOWS_REMOTE_USE" ],
+    "flags": [ "ALLOWS_REMOTE_USE" ]
   }
 ]
